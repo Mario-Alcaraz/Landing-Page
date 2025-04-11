@@ -1,0 +1,27 @@
+.navbar {
+    background-color: darkgray;
+    padding: 25px;
+    text-align: center;
+    font-style: white;
+}
+
+.nav-link:hover{
+    color: purple;
+}
+.nav-link{
+color: white;
+}
+.landing-container{
+background-color: whitesmoke;
+text-align: center;
+padding: block 25px;: ;
+}
+.header{
+font-family: 'Times New Roman', Times, serif;
+color: rgb(1, 8, 1);
+padding: 10px;
+}
+.product-subtitle{
+    font-size: 20px;
+    color: grey
+}
